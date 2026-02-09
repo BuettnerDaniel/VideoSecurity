@@ -1,6 +1,6 @@
 ﻿# VideoSecurity Geutebrück
 
-Dieses Repository beinhaltet den Entwurf für ein Video Security System. Für den Einstieg in das Projekt wird die Aufgabe kurz skizziert und die grobe Architektur dargestellt und der Solution Aufbau dargestellt. Die Details zu den architekturellen Entscheidungen sind in der [backend.md](backend.md) zu finden.  
+Dieses Repository beinhaltet den Entwurf für ein Video Security System. Für den Einstieg in das Projekt wird die Aufgabe kurz skizziert und die grobe Architektur dargestellt und der Solution Aufbau dargestellt. Die Details zu den architekturellen Entscheidungen sind in der [backend.md](./00_Docs/backend.md) zu finden.  
 
 - [VideoSecurity Geutebrück](#videosecurity-geutebrück)
   - [Stakeholder](#stakeholder)
