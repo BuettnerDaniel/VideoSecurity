@@ -66,8 +66,8 @@ Videodateien werden in Blobstorage gespeichert. Metadaten in relationaler Datenb
 * **Kontext:** Module müssen kommunizieren, dürfen sich aber nicht direkt referenzieren (Zirkelbezug).
 * **Entscheidung:** Extraktion von **`*.Contracts` Bibliotheken**. Module kennen nur Interfaces, keine Implementierungen.
 * **Trade-offs:**
-    * ✅ **Pro:** Strikte Entkopplung, saubere Dependency Injection.
-    * ⚠️ **Contra:** Mehr Projekte im Solution Explorer.
+    * **Pro:** Strikte Entkopplung, saubere Dependency Injection.
+    * **Contra:** Mehr Projekte im Solution Explorer.
 
 ---
 
