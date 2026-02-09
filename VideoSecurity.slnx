@@ -1,0 +1,30 @@
+<Solution>
+  <Folder Name="/00_Docs/">
+    <File Path="architectureoverview.md" />
+    <File Path="backend.md" />
+    <File Path="Playback.md" />
+    <File Path="README.md" />
+    <File Path="sequenceDiagram.md" />
+  </Folder>
+  <Folder Name="/00_Docs/resources/">
+    <File Path="architectureoverview.png" />
+  </Folder>
+  <Folder Name="/01_Host/">
+    <Project Path="01_Host/VideoSecurity.Api/VideoSecurity.Api.csproj" />
+  </Folder>
+  <Folder Name="/02_Modules/">
+    <Project Path="02_Modules/VideoSecurity.Analysis/VideoSecurity.Analysis.csproj" />
+    <Project Path="02_Modules/VideoSecurity.DeviceMgmt/VideoSecurity.DeviceMgmt.csproj" />
+    <Project Path="02_Modules/VideoSecurity.Playback/VideoSecurity.Playback.csproj" />
+    <Project Path="02_Modules/VideoSecurity.Recording/VideoSecurity.Recording.csproj" />
+  </Folder>
+  <Folder Name="/03_Contracts/">
+    <Project Path="03_Contracts/VideoSecurity.Analysis.Contracts/VideoSecurity.Analysis.Contracts.csproj" />
+    <Project Path="03_Contracts/VideoSecurity.DeviceMgmt.Contracts/VideoSecurity.DeviceMgmt.Contracts.csproj" />
+    <Project Path="03_Contracts/VideoSecurity.Playback.Contracts/VideoSecurity.Playback.Contracts.csproj" />
+    <Project Path="03_Contracts/VideoSecurity.Recording.Contracts/VideoSecurity.Recording.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/04_Infrastructure/">
+    <Project Path="04_Infrastructure/VideoSecurity.Infrastructure/VideoSecurity.Infrastructure.csproj" />
+  </Folder>
+</Solution>
